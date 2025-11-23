@@ -10,27 +10,28 @@
 
 ---
 
-## 🛠️ Tech Stack
+<table align="center">
+<tr>
+<td>
 
-<div align="center">
+## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-</div>
-
----
+</td>
+<td>
 
 ## 📫 Connect with Me
-
-<div align="center">
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/sea-with-sakura)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:liu_yu_hao@126.com)
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -38,10 +39,10 @@
 
 ### 💭 Quote of the Day
 
-```
+<pre>
 ╔═══════════════════════════════════════════════════════════╗
 ║  "If life could remain as beautiful as our first meeting."  ║
 ╚═══════════════════════════════════════════════════════════╝
-```
+</pre>
 
 </div>
