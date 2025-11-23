@@ -1,233 +1,67 @@
-<!--
+<div align="center">
 
-Thank you if you like this profile README!
+# Hi there, I'm sea-with-sakura 👋
 
-BUT, please DO NOT copy this and create your profile based on it.
+### 🌸 Welcome to my GitHub profile! 🌸
 
-You can use it as a reference, and copy a part of it, but DO NOT copy
-all of this and create your profile based on it.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Code+with+passion;Learn+something+new+everyday;Open+source+enthusiast)](https://git.io/typing-svg)
 
-It is very common that you forget to change some information and leave
-mine in your profile. This has happened too many times.
-
-And, this profile README is auto-updated by GitHub Actions, you can read
-[the official documentation](https://docs.github.com/actions) to learn
-how to use it.
-
-Only when you know what you are copying should you paste it. So, again,
-please DO NOT copy this and create your profile based on it.
-
-What's more, you can find other awesome profile READMEs at
-https://github.com/abhisheknaiidu/awesome-github-profile-readme. There
-could be a profile README that fits you better than this one.
-
-Wish you a good-looking profile README!
-
-                                   —— ouuan (https://github.com/ouuan)
-
--->
-
-****
-
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=sea-with-sakura&theme=dark&show_icons=true">
-    <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=sea-with-sakura&show_icons=true">
-</picture>
-
--   :pencil2: Rust / C++ / TypeScript / Vue / Python / SystemVerilog
--   :package: [Arch Linux](https://wiki.archlinux.org/title/Arch_Linux) / [i3wm](https://i3wm.org/) / [neovim](https://neovim.io/) / [nnn](https://github.com/jarun/nnn) / [mpv](https://mpv.io/) / [Firefox](https://www.mozilla.org/firefox/) / [yadm](https://github.com/TheLocehiliosan/yadm)
--   :microscope: Cyber security research with @chenjj
--   :thought_balloon: Ask me anything at [Discussions](https://github.com/sea-with-sakura/sea-with-sakura/discussions/new/choose)!
--   :mag: [CVEs discovered by me](CVE.md)
--   :star: [Projects starred by me](AWESOME-STARS.md)
--   :key: GPG key: ****
+</div>
 
 ---
 
-### :pencil: [Latest blog posts](https://ouuan.moe?utm_source=GitHubProfile)
+## 📊 GitHub Stats
 
-<!--START_SECTION:blog-posts-->
--   2025-10-26 [GeekGame 2025 出题人题解：统一身份认证、勒索病毒](https://ouuan.moe/post/2025/10/geekgame-2025-graphauth-ransomware?utm_source=GitHubProfile)
--   2025-05-10 [DEF CON CTF Quals 2025 memorybank Write-Up: Investigating V8 Garbage Collector](https://ouuan.moe/post/2025/04/memorybank?utm_source=GitHubProfile)
--   2025-03-20 [修复 XeTeX 更新导致编译错误](https://ouuan.moe/post/2025/03/fix-xetex-update?utm_source=GitHubProfile)
--   2025-03-11 [TPCTF 2025 Official Write-Up (6 challenges)](https://ouuan.moe/post/2025/03/tpctf-2025?utm_source=GitHubProfile)
--   2025-03-04 [SECCON CTF 13 Finals 游记](https://ouuan.moe/post/2025/02/seccon-13-finals?utm_source=GitHubProfile)
-<!--END_SECTION:blog-posts-->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sea-with-sakura&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sea-with-sakura&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
 
----
-
-### :sparkles: [My followers](src/getTopFollowers.py)
-
-<!--START_SECTION:top-followers-->
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/wizardforcel">
-        <img src="https://avatars2.githubusercontent.com/u/5080126" width="100px;" alt="wizardforcel"/>
-      </a>
-      <br />
-      <a href="https://github.com/wizardforcel">布客飞龙</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/EndlessCheng">
-        <img src="https://avatars2.githubusercontent.com/u/7086966" width="100px;" alt="EndlessCheng"/>
-      </a>
-      <br />
-      <a href="https://github.com/EndlessCheng">灵茶山艾府 [0x3F]</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/gaocegege">
-        <img src="https://avatars2.githubusercontent.com/u/5100735" width="100px;" alt="gaocegege"/>
-      </a>
-      <br />
-      <a href="https://github.com/gaocegege">Ce Gao</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/guofei9987">
-        <img src="https://avatars2.githubusercontent.com/u/19920283" width="100px;" alt="guofei9987"/>
-      </a>
-      <br />
-      <a href="https://github.com/guofei9987">郭飞</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/zer0yu">
-        <img src="https://avatars2.githubusercontent.com/u/16551733" width="100px;" alt="zer0yu"/>
-      </a>
-      <br />
-      <a href="https://github.com/zer0yu">z3r0yu</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/hua1995116">
-        <img src="https://avatars2.githubusercontent.com/u/12070073" width="100px;" alt="hua1995116"/>
-      </a>
-      <br />
-      <a href="https://github.com/hua1995116">蓝色的秋风</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/lowlighter">
-        <img src="https://avatars2.githubusercontent.com/u/22963968" width="100px;" alt="lowlighter"/>
-      </a>
-      <br />
-      <a href="https://github.com/lowlighter">Simon Lecoq</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/losfair">
-        <img src="https://avatars2.githubusercontent.com/u/6104981" width="100px;" alt="losfair"/>
-      </a>
-      <br />
-      <a href="https://github.com/losfair">Heyang Zhou</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Harry-Chen">
-        <img src="https://avatars2.githubusercontent.com/u/2819727" width="100px;" alt="Harry-Chen"/>
-      </a>
-      <br />
-      <a href="https://github.com/Harry-Chen">Shengqi Chen</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Konano">
-        <img src="https://avatars2.githubusercontent.com/u/22500116" width="100px;" alt="Konano"/>
-      </a>
-      <br />
-      <a href="https://github.com/Konano">Nano</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/SunsetMkt">
-        <img src="https://avatars2.githubusercontent.com/u/26019675" width="100px;" alt="SunsetMkt"/>
-      </a>
-      <br />
-      <a href="https://github.com/SunsetMkt">Sunset Mikoto</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/mashirozx">
-        <img src="https://avatars2.githubusercontent.com/u/16148054" width="100px;" alt="mashirozx"/>
-      </a>
-      <br />
-      <a href="https://github.com/mashirozx">Mashiro</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Ir1d">
-        <img src="https://avatars2.githubusercontent.com/u/10709657" width="100px;" alt="Ir1d"/>
-      </a>
-      <br />
-      <a href="https://github.com/Ir1d">Dejia Xu</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/clansty">
-        <img src="https://avatars2.githubusercontent.com/u/18461360" width="100px;" alt="clansty"/>
-      </a>
-      <br />
-      <a href="https://github.com/clansty">凌莞~(=^▽^=)</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/taoso">
-        <img src="https://avatars2.githubusercontent.com/u/2030591" width="100px;" alt="taoso"/>
-      </a>
-      <br />
-      <a href="https://github.com/taoso">taoso</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/lzwjava">
-        <img src="https://avatars2.githubusercontent.com/u/5022872" width="100px;" alt="lzwjava"/>
-      </a>
-      <br />
-      <a href="https://github.com/lzwjava">Zhiwei Li</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Trumeet">
-        <img src="https://avatars2.githubusercontent.com/u/17158086" width="100px;" alt="Trumeet"/>
-      </a>
-      <br />
-      <a href="https://github.com/Trumeet">Yuuta Liang</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Enter-tainer">
-        <img src="https://avatars2.githubusercontent.com/u/25521218" width="100px;" alt="Enter-tainer"/>
-      </a>
-      <br />
-      <a href="https://github.com/Enter-tainer">Wenzhuo Liu</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/zTrix">
-        <img src="https://avatars2.githubusercontent.com/u/471934" width="100px;" alt="zTrix"/>
-      </a>
-      <br />
-      <a href="https://github.com/zTrix">Wenlei Zhu</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/WBGlIl">
-        <img src="https://avatars2.githubusercontent.com/u/29301859" width="100px;" alt="WBGlIl"/>
-      </a>
-      <br />
-      <a href="https://github.com/WBGlIl">WBGlIl</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/cubercsl">
-        <img src="https://avatars2.githubusercontent.com/u/22931465" width="100px;" alt="cubercsl"/>
-      </a>
-      <br />
-      <a href="https://github.com/cubercsl">cubercsl</a>
-    </td>
-  </tr>
-</table>
-<!--END_SECTION:top-followers-->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sea-with-sakura&theme=tokyonight" alt="sea-with-sakura" />
+</div>
 
 ---
 
-### :bar_chart: [Coding time in the last month](https://github.com/muety/wakapi)
+## 🛠️ Tech Stack
 
-<!--START_SECTION:waka-->
+<div align="center">
 
-```txt
-Markdown           16 hrs 19 mins  🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   24.63 %
-Python             10 hrs 58 mins  🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   16.55 %
-Rust               6 hrs 19 mins   🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   09.55 %
-C                  3 hrs 30 mins   🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   05.28 %
-Makefile           3 hrs 18 mins   🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.98 %
-```
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
-<!--END_SECTION:waka-->
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+</div>
+
+---
+
+## 📫 Connect with Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/sea-with-sakura)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Quote of the Day
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=sea-with-sakura&color=blueviolet&style=flat-square)
+
+</div>
